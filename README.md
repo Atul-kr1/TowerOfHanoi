@@ -2,6 +2,8 @@
 Visual Simulation of Tower of Hanoi Solution in C++ using OpenGL Libraries
 
 
+
+## Description
 Tower of Hanoi is a mathematical puzzle where we have three rods and n disks.
 The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules:
 
@@ -10,7 +12,27 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
   3) No disk may be placed on top of a smaller disk.
 
 
-# Authors
+
+## Technologies used:
+
+C++ , OPENGL , GLUT
+
+
+
+## Methodology:
+1.Line drawing Algorithm
+
+2.Circle drawing algorithm
+
+3.Ellipse drawing algorithm
+
+4.Polygon filling algorithm
+
+5.Tower of Hanoi algorithm
+
+
+
+## Authors
  ATUL KUMAR [1AT19CS024]
  
  DIKSHA JAISWAL [1AT19CS038]
