@@ -11,6 +11,6 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 
 
 # Authors
- ATUL KUMAR
+ ATUL KUMAR [1AT19CS024]
  
- DIKSHA JAISWAL
+ DIKSHA JAISWAL [1AT19CS038]
